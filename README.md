@@ -1,2 +1,4 @@
- [![View Design](your-image.png)](https://chatgpt.com/s/m_6a6cf07bad0c8191854776bc9be427bf)
+<p align="center">
+  <img src="./ChatGPT%20Image%20Aug%201,%202026,%201....png" alt="Manya Chugh Banner" width="100%">
+</p>
 
