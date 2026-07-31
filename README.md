@@ -1,3 +1,2 @@
-## Hi there 👋
+ [![View Design](your-image.png)](https://chatgpt.com/s/m_6a6cf07bad0c8191854776bc9be427bf)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manya-Chughe&theme=react-dark&hide_border=false)
