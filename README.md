@@ -8,7 +8,7 @@
 
 *Curiosity is the secret to developing new things. I'm passionate about learning new skills, which is why I chose this path.*
 
-[GitHub](https://github.com/manyachugh1807) • [Portfolio](#) • [Email](mailto:your.email@example.com)
+[GitHub](https://github.com/manyachugh1807) • [Portfolio](#) • [Email](mailto:manya.chugh1807@gmail.com)
 
 </div>
 
