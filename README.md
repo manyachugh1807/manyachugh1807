@@ -74,9 +74,8 @@ Curiosity drives me to constantly explore new technologies and frameworks. While
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[Project Name](link)** | Brief description of what this project does | React, Node.js, MongoDB |
-| **[Project Name](link)** | Brief description of what this project does | JavaScript, HTML, CSS |
-| **[Project Name](link)** | Brief description of what this project does | Python, Flask |
+| **[Sonare](https://sanare.onrender.com/)** | A smart talking website which keep the name and user detail private | React, Node.js, BlockChain |
+
 
 </div>
 
